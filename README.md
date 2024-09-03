@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atripirta
-- 👀 I’m interested in solving problems via ingenuine and creative solutions
+- 👀 I’m interested in solving problems via creative solutions
 - 🌱 I’m currently learning ML, QCQI, physics.
 - 📫 How to reach me atripathi1618@gmail.com
 
